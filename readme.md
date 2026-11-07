@@ -9,12 +9,8 @@ The flake pins `nixpkgs` on the stable `release-25.11` channel and shares the
 
 ## The rest of the fleet
 
-This repo used to hold all my NixOS configs; that era is over:
-
-- **erebos** (homelab server) — has its own repo now: <https://github.com/TheWhale01/erebos>
-- **pontos** (laptop) — migrated from NixOS to Fedora; no NixOS config to maintain anymore
-- **olympos** — never built; was a planned gaming console with a config similar to pontos, and will
-  probably never exist
+This repo is dedicated to strategos. The homelab server **erebos** is documented in its own flake
+repo: <https://github.com/TheWhale01/erebos>.
 
 ## Install / update
 
